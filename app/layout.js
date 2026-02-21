@@ -122,17 +122,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Gaby Flores Manager Script */}
+        {/* Rayane Flores Manager Script */}
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17899645764"
+          src="https://www.googletagmanager.com/gtag/js?id=AW-17964667065"
         />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'AW-17899645764');
+            gtag('config', 'AW-17964667065');
           `}
         </Script>
       </head>

@@ -12,10 +12,10 @@ export async function generateMetadata({ params }) {
   const product = allProducts.find((p) => p.id == id) || allProducts[0];
 
   return {
-    title: `${product.title} || Gaby Flores`,
+    title: `${product.title} || Rayane Flores`,
     description: product.description || "Confira este produto incrível!",
     openGraph: {
-      title: `${product.title} || Gaby Flores`,
+      title: `${product.title} || Rayane Flores`,
       description: product.description || "Veja mais detalhes sobre este produto.",
       images: [
         {

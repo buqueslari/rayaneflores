@@ -95,18 +95,18 @@ export default function Reviews() {
           <div className="reply-comment-item type-reply">
             <div className="user">
               <div className="image">
-                <Image alt="" src="/images/avatar/user-Gaby Flores.jpg" width={104} height={104} />
+                <Image alt="" src="/images/avatar/user-Rayane Flores.jpg" width={104} height={104} />
               </div>
               <div>
                 <h6>
                   <a href="#" className="link">
-                    Reply from Gaby Flores
+                    Reply from Rayane Flores
                   </a>
                 </h6>
                 <div className="day text-secondary-2 text-caption-1">1 days ago &nbsp;&nbsp;&nbsp;-</div>
               </div>
             </div>
-            <p className="text-secondary">We love to hear it! Part of what we love most about Gaby Flores is how much it empowers store owners like yourself to build a beautiful website without having to hire a developer :) Thank you for this fantastic review!</p>
+            <p className="text-secondary">We love to hear it! Part of what we love most about Rayane Flores is how much it empowers store owners like yourself to build a beautiful website without having to hire a developer :) Thank you for this fantastic review!</p>
           </div>
           <div className="reply-comment-item">
             <div className="user">

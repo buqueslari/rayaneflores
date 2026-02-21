@@ -14,7 +14,7 @@ export default function About() {
           </div>
           <div className="col-md-6">
             <div className="about-us-content">
-              <h3 className="title wow fadeInUp">Gaby Flores – Offering rare and beautiful items worldwide</h3>
+              <h3 className="title wow fadeInUp">Rayane Flores – Offering rare and beautiful items worldwide</h3>
               <div className="widget-tabs style-3">
                 <ul className="widget-menu-tab wow fadeInUp">
                   <li className={`item-title ${activeTab == 1 ? "active" : ""} `} onClick={() => setActiveTab(1)}>
@@ -32,16 +32,16 @@ export default function About() {
                 </ul>
                 <div className="widget-content-tab wow fadeInUp">
                   <div className={`widget-content-inner ${activeTab == 1 ? "active" : ""} `}>
-                    <p>Welcome to Gaby Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Gaby Flores Store.</p>
+                    <p>Welcome to Rayane Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Rayane Flores Store.</p>
                   </div>
                   <div className={`widget-content-inner ${activeTab == 2 ? "active" : ""} `}>
-                    <p>Welcome to Gaby Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Gaby Flores Store.</p>
+                    <p>Welcome to Rayane Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Rayane Flores Store.</p>
                   </div>
                   <div className={`widget-content-inner ${activeTab == 3 ? "active" : ""} `}>
-                    <p>Welcome to Gaby Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Gaby Flores Store.</p>
+                    <p>Welcome to Rayane Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Rayane Flores Store.</p>
                   </div>
                   <div className={`widget-content-inner ${activeTab == 4 ? "active" : ""} `}>
-                    <p>Welcome to Gaby Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Gaby Flores Store.</p>
+                    <p>Welcome to Rayane Flores Store, your premier destination for fashion-forward clothing and accessories. We pride ourselves on offering a curated selection of rare and beautiful items sourced both locally and globally. Our mission is to bring you the latest trends and timeless styles, ensuring every piece reflects quality and elegance. Discover the perfect addition to your wardrobe at Rayane Flores Store.</p>
                   </div>
                 </div>
               </div>
