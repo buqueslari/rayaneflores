@@ -148,7 +148,7 @@ export default function DetailsSubscribeAndSave({ product }) {
                             </div>
                             <div className="line-bt" />
                             <div>
-                              <h6>Fashion Rayane Flores</h6>
+                              <h6>Fashion Suas Flores</h6>
                               <p>Pickup available. Usually ready in 24 hours</p>
                             </div>
                             <div>
@@ -166,7 +166,7 @@ export default function DetailsSubscribeAndSave({ product }) {
                       </li>
                       <li>
                         <p className="text-caption-1">Vendor:</p>
-                        <p className="text-caption-1 text-1">Rayane Flores</p>
+                        <p className="text-caption-1 text-1">Suas Flores</p>
                       </li>
                       <li>
                         <p className="text-caption-1">Available:</p>

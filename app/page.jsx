@@ -10,8 +10,8 @@ import Header2 from "@/components/headers/Header2";
 import Collections from "@/components/homes/home-1/Collections";
 
 export const metadata = {
-  title: "Rayane Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-  description: "A Rayane Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+  title: "Suas Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+  description: "A Suas Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
   viewport: "width=device-width, initial-scale=1.0",
   themeColor: "#FFFFFF",
   icons: {
@@ -19,10 +19,10 @@ export const metadata = {
   },
   openGraph: {
     locale: "pt-BR",
-    title: "Rayane Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-    siteName: "Rayane Flores",
+    title: "Suas Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+    siteName: "Suas Flores",
     type: "website",
-    description: "A Rayane Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+    description: "A Suas Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
     url: "https://www.Gabyflores.shop/",
     images: [
       {
@@ -33,8 +33,8 @@ export const metadata = {
   alternates: {
     canonical: "https://www.Gabyflores.shop/",
   },
-  keywords: ["Rayane Flores", "Rayane Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
-  authors: [{ name: "Rayane Flores", url: "https://www.Gabyflores.shop/" }],
+  keywords: ["Suas Flores", "Suas Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
+  authors: [{ name: "Suas Flores", url: "https://www.Gabyflores.shop/" }],
 };
 export default function Home() {
   return (

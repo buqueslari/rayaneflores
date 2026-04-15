@@ -5,8 +5,8 @@ import StoreLocations1 from "@/components/otherPages/StoreLocations1";
 import React from "react";
 import Link from "next/link";
 export const metadata = {
-  title: "Store List || Rayane Flores - Multipurpose React Nextjs eCommerce Template",
-  description: "Rayane Flores - Multipurpose React Nextjs eCommerce Template",
+  title: "Store List || Suas Flores - Multipurpose React Nextjs eCommerce Template",
+  description: "Suas Flores - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default function page() {

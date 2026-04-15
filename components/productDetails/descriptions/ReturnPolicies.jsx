@@ -4,7 +4,7 @@ export default function ReturnPolicies() {
   return (
     <>
       <div className="text-btn-uppercase mb_12">Política de Devoluções</div>
-      <p className="mb_12 text-secondary">Na Rayane Flores, garantimos a qualidade dos nossos produtos. Se você não estiver completamente satisfeito com sua compra, oferecemos devoluções sem complicações dentro de 30 dias após a entrega.</p>
+      <p className="mb_12 text-secondary">Na Suas Flores, garantimos a qualidade dos nossos produtos. Se você não estiver completamente satisfeito com sua compra, oferecemos devoluções sem complicações dentro de 30 dias após a entrega.</p>
       <div className="text-btn-uppercase mb_12">Trocas ou Reembolsos Fáceis</div>
       <ul className="list-text type-disc mb_12 gap-6">
         <li className="text-secondary font-2">Troque seu item por um tamanho, cor ou estilo diferente ou receba um reembolso total.</li>
