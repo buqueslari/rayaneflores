@@ -11,7 +11,7 @@ export default function Details1({ product }) {
   const { addProductToCart, isAddedToCartProducts, addToWishlist, isAddedtoWishlist, isAddedtoCompareItem, addToCompareItem, cartProducts, updateQuantity } = useContextElement();
 
   function redirecionarParaWhatsApp() {
-    const telefone = "5542984434111";
+    const telefone = "5511948950861";
     let mensagem = "Olá, gostaria desses produtos:\n\n";
     let total = 0;
 
