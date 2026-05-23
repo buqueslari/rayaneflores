@@ -11,7 +11,12 @@ export default function Hero() {
     const mensagemCodificada = encodeURIComponent(mensagem);
     const url = `https://wa.me/${telefone}?text=${mensagemCodificada}`;
 
-    window.open(url, "_blank");
+    gtag("event", "conversion", {
+      send_to: "AW-18148830321/K-oOCNnMsbIcEPHYhM5D",
+      value: 1.0,
+      currency: "BRL",
+      event_callback: function () { window.open(url, "_blank"); },
+    });
   }
   return (
     <section className="tf-slideshow slider-default slider-effect-fade">
